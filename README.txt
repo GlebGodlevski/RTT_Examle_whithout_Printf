@@ -1,3 +1,6 @@
+
+mcuoneclipse/Examples/KDS/FRDM-K64F120M/FRDM-K64F_Segger_RTT/Sources/
+
 mcuoneclipse
 ============
 
